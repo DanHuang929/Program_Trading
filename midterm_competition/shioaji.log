@@ -1,0 +1,1 @@
+[E 2023-04-10 11:16:57,317 /Users/yun_yang/opt/anaconda3/lib/python3.9/site-packages/shioaji/shioaji.py:217:_setup_solace] RequestException RemoteDisconnected('Remote end closed connection without response')

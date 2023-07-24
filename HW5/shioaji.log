@@ -1,0 +1,2 @@
+[E 2023-05-18 11:24:05,785 /Users/yun_yang/opt/anaconda3/lib/python3.9/site-packages/shioaji/shioaji.py:217:_setup_solace] RequestException URLError(timeout('_ssl.c:1112: The handshake operation timed out'))
+[E 2023-05-18 11:24:17,963 /Users/yun_yang/opt/anaconda3/lib/python3.9/site-packages/shioaji/shioaji.py:217:_setup_solace] RequestException timeout('The read operation timed out')
